@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlinFundamental
 
 fun main() {
     val shopName = "Toko Afung"

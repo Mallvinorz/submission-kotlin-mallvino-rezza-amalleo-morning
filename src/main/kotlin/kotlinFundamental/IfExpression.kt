@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlinFundamental
 
 fun main() {
     //format waktu 24 jam

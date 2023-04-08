@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val shoesSize = mutableListOf(42, 43, 45, 46)

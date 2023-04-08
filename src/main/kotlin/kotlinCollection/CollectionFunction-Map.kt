@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val list = listOf<Float>(3.5f, 4.4f, 1.2f, 3.4f )

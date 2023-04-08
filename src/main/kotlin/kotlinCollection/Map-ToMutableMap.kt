@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val groupMap = mapOf(
@@ -13,8 +13,12 @@ fun main() {
     )
 
     println(groupMap)
-    println(groupMap[7])
-    println(groupMap.getValue(4))
-    println(groupMap.values)
-    println(groupMap.keys)
+
+    val mutable = groupMap.toMutableMap()
+    println(mutable)
+
+    mutable[3] = "Schecter Nick Johnston"
+    mutable.put(9, "Yamaha")
+
+    println(mutable)
 }

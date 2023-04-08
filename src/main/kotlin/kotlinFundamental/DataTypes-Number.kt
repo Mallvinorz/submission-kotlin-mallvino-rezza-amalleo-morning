@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlinFundamental
 
 fun main() {
     val a: Int = 10000

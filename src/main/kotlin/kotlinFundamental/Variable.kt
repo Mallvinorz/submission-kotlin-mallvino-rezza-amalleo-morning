@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlinFundamental
 
 fun main() {
     var name: String = "Rezza"

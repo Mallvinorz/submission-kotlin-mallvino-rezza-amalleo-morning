@@ -1,4 +1,4 @@
-package KotlinControlFlow
+package kotlinControlFlow
 
 fun main() {
     //format waktu 24 jam

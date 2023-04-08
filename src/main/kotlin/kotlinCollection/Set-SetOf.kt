@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val bbKelasA=  setOf(56, 78, 62, 55, 55, 45, 60, 53, 78, 60)

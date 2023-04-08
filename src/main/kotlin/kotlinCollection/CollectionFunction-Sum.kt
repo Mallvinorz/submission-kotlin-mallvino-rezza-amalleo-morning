@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val money = listOf(3000, 2500, 3200, 1700, 5800, 24800)

@@ -1,4 +1,4 @@
-package KotlinControlFlow
+package kotlinControlFlow
 
 fun main() {
     val menuTerpilih = 4

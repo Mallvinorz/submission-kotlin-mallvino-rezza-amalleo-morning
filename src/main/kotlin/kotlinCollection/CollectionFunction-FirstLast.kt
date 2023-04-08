@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val guitar = arrayOf("Fender Stratocaster", "Fender Telecaster", "Squier Stratocaster",

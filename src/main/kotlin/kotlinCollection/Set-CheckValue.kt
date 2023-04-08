@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val merkMie = setOf("Gaga", "Indomie", "Sedaap", "Sarimi", "Lemonilo")

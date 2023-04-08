@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val temperatureList = mutableListOf("Celcius", 100, true, 27.9)

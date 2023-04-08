@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val number = listOf(22, 46, 31, 21, 43, 37, 25, 40, 38)

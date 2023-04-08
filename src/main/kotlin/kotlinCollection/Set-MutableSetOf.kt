@@ -1,4 +1,4 @@
-package KotlinCollection
+package kotlinCollection
 
 fun main() {
     val size = mutableSetOf("Small", "Regular", "Large", "Extra Large")
