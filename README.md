@@ -1,8 +1,8 @@
 Submission Tugas Technical Infinite Learning Studi Independent Bersertifikat Batch 4
 
-Nama : Mallvino Rezza Amalleo
-Program : Mobile Development
-Sesi : Morning
+- Nama : Mallvino Rezza Amalleo
+- Program : Mobile Development
+- Sesi : Morning
 
 Implementasi dari 3 materi diantaranya :
 1. Kotlin-Fundamental
